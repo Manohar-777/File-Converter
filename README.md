@@ -41,7 +41,7 @@ Make sure you have the following installed on your machine before starting:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/Jayanth0124/file-converter.git
+   git clone https://github.com/manohar-777/file-converter.git
 Navigate to the project directory:
 
 
