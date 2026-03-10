@@ -2,15 +2,6 @@
 
 A powerful and easy-to-use web-based tool that allows users to seamlessly convert multiple file types including **Images to PDF**, **PDF to Images**, **Merge PDFs**, and **Image Format Conversion**.
 
-## Table of Contents 📚
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contact](#contact)
-
----
 
 ## Introduction 💡
 
