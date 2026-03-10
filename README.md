@@ -42,19 +42,6 @@ Make sure you have the following installed on your machine before starting:
 
    ```bash
    git clone https://github.com/manohar-777/file-converter.git
-Navigate to the project directory:
-
-
-Contributing 🤝
-We welcome contributions to the File Converter project! To contribute:
-
-Fork the repository.
-
-
-License 📜
-This project is licensed under the MIT License 
-Contact 📧
-For any questions or issues, feel free to reach out to the project creator:
 
 GitHub: manohar-777
 Email: manohharapsupuleti777@gmail.com
